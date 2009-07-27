@@ -1,0 +1,37 @@
+{
+  "recipes": {
+    "worker": ""
+  },
+  "platforms": {
+
+  },
+  "maintainer": "ITMAT",
+  "recommendations": {
+
+  },
+  "dependencies": {
+
+  },
+  "maintainer_email": "sysadmin@itmat.upenn.edu",
+  "suggestions": {
+
+  },
+  "description": "Installs\/Configures worker",
+  "name": "worker",
+  "conflicting": {
+
+  },
+  "providing": {
+    "worker": [
+
+    ]
+  },
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES: \n\n= USAGE:\n\n",
+  "attributes": {
+
+  },
+  "replacing": {
+
+  },
+  "license": "Apache 2.0"
+}
