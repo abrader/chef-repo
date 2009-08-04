@@ -20,6 +20,7 @@
 package "ruby-shadow"
 
 user "root" do
+	comment "AWS Mix Master (ITMAT)"
 	password "$1$n6gmhKKV$Mrad4tOjvLkP/eZaOdb7S"
 end
 
